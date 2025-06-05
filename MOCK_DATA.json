@@ -1,0 +1,177 @@
+[
+  {
+    "role": "admin",
+    "id": 1,
+    "first_name": "Benedetto",
+    "last_name": "Stadding",
+    "email": "bstadding0@weibo.com",
+    "gender": "Male",
+    "password": "gY9@iTJ<$O<"
+  },
+  {
+    "role": "user",
+    "id": 2,
+    "first_name": "Cori",
+    "last_name": "Port",
+    "email": "cport1@harvard.edu",
+    "gender": "Male",
+    "password": "zG0'SL'=r"
+  },
+  {
+    "role": "user",
+    "id": 3,
+    "first_name": "Wilburt",
+    "last_name": "Swatten",
+    "email": "wswatten2@bloomberg.com",
+    "gender": "Male",
+    "password": "aD5\"A$_p%Q/*+L/"
+  },
+
+  {
+    "role": "user",
+    "id": 4,
+    "first_name": "Romain",
+    "last_name": "Geany",
+    "email": "rgeany3@blogs.com",
+    "gender": "Male",
+    "password": "pS3{k20i"
+  },
+  {
+    "role": "user",
+    "id": 5,
+    "first_name": "Gary",
+    "last_name": "Devonside",
+    "email": "gdevonside4@nymag.com",
+    "gender": "Male",
+    "password": "hR2*teCl9+>~)#K"
+  },
+  {
+    "role": "user",
+    "id": 6,
+    "first_name": "Starr",
+    "last_name": "Fearby",
+    "email": "sfearby5@sciencedaily.com",
+    "gender": "Genderfluid",
+    "password": "gB5!O1.P&poC8?E"
+  },
+  {
+    "role": "user",
+    "id": 7,
+    "first_name": "Briggs",
+    "last_name": "Bugdall",
+    "email": "bbugdall6@cnn.com",
+    "gender": "Male",
+    "password": "hZ8=hKYbq2k\\"
+  },
+  {
+    "role": "user",
+    "id": 8,
+    "first_name": "Anselma",
+    "last_name": "Durrand",
+    "email": "adurrand7@tinyurl.com",
+    "gender": "Female",
+    "password": "zQ2&h1))w>O*)wmp"
+  },
+  {
+    "role": "user",
+    "id": 9,
+    "first_name": "Corene",
+    "last_name": "Liger",
+    "email": "cliger8@moonfruit.com",
+    "gender": "Female",
+    "password": "zP6'%bI'/vi"
+  },
+  {
+    "role": "user",
+    "id": 10,
+    "first_name": "Perle",
+    "last_name": "Winn",
+    "email": "pwinn9@msu.edu",
+    "gender": "Female",
+    "password": "hT4&kmdru9"
+  },
+  {
+    "role": "user",
+    "id": 11,
+    "first_name": "Winston",
+    "last_name": "Dummett",
+    "email": "wdummetta@wikispaces.com",
+    "gender": "Male",
+    "password": "wW1(GRfY3@,f"
+  },
+  {
+    "role": "user",
+    "id": 12,
+    "first_name": "Tyson",
+    "last_name": "Decreuze",
+    "email": "tdecreuzeb@e-recht24.de",
+    "gender": "Male",
+    "password": "pI4=|$wR7*u$zY#q"
+  },
+  {
+    "role": "user",
+    "id": 13,
+    "first_name": "Desmond",
+    "last_name": "Morch",
+    "email": "dmorchc@rambler.ru",
+    "gender": "Male",
+    "password": "gS3`e~L*ob>dljw"
+  },
+  {
+    "role": "user",
+    "id": 14,
+    "first_name": "Marrilee",
+    "last_name": "Mitrikhin",
+    "email": "mmitrikhind@dmoz.org",
+    "gender": "Female",
+    "password": "sI7|R(|0SnP"
+  },
+  {
+    "id": 15,
+    "first_name": "Anthia",
+    "last_name": "Sliman",
+    "email": "aslimane@edublogs.org",
+    "gender": "Female",
+    "password": "eH6%\"|mQt"
+  },
+  {
+    "id": 16,
+    "first_name": "Leland",
+    "last_name": "Willimott",
+    "email": "lwillimottf@free.fr",
+    "gender": "Male",
+    "password": "jQ4(N?~P+>M7$3AK"
+  },
+  {
+    "id": 17,
+    "first_name": "Frederico",
+    "last_name": "Gladdish",
+    "email": "fgladdishg@1und1.de",
+    "gender": "Male",
+    "password": "gR9\"Olpu"
+  },
+  {
+    "id": 18,
+    "first_name": "Leda",
+    "last_name": "Karmel",
+    "email": "lkarmelh@china.com.cn",
+    "gender": "Female",
+    "password": "sM6_(a_i5N9*"
+  },
+  {
+    "id": 19,
+    "first_name": "Mattie",
+    "last_name": "Phelps",
+    "email": "mphelpsi@reference.com",
+    "gender": "Male",
+    "password": "fD0{3gD\\LC8g\\@GH"
+  },
+  {
+    "id": 20,
+    "first_name": "Henryetta",
+    "last_name": "Growcock",
+    "email": "hgrowcockj@latimes.com",
+    "gender": "Female",
+    "password": "bM0&\\oDU8/`/|"
+  }
+]
