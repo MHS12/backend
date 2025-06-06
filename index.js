@@ -4,7 +4,7 @@ const { ConnectDB } = require("./config");
 const authRouter = require("./router/Auth");
 const cors = require("cors");
 const cookieParser = require("cookie-parser");
-
+const routescan = require("./router/Scan");
 const app = express();
 
 app.use(express.json());
@@ -18,7 +18,7 @@ app.use(
 app.use(cookieParser());
 
 app.use("/", authRouter);
-
+app.use("/", routescan);
 
 app.get("/", (req, res) => {
   return res.send("Hello");
